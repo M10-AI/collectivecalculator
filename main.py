@@ -1,7 +1,6 @@
-#import streamlit as st
+import streamlit as st
 
-
-#st.title("Calculator")
+st.title("Calculator")
 
 ### Johans lösning: Division
 
@@ -10,7 +9,8 @@
 def multiplication(a: float, b: float) -> float: assert type(a) == float and type(b) == float; return a*b
 
 ### Franks lösning: Subtraction
-
+def subtract(a,b):
+    return a-b
 
 ### Alejandro: Addition
 
