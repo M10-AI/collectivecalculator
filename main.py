@@ -10,4 +10,4 @@ st.title("Calculator")
 
 ### Franks lösning
 def subtract(a,b):
-    return a-b
+    return a - b
