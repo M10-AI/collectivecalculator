@@ -3,10 +3,13 @@ import streamlit as st
 
 st.title("Calculator")
 
-### Johans lösning
+### Johans lösning: Division
 
 
-### Leos lösning
+### Leos lösning: Subtraction
 
 
-### Franks lösning
+### Franks lösning: Multiplication
+
+
+### Alejandro: Addition
