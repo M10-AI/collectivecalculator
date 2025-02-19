@@ -7,7 +7,7 @@
 
 
 ### Leos lösning: Multiplication
-def multiplication(a: float, b: float) -> float: assert type(a) == int and type(b) == int; return a*b
+def multiplication(a: float, b: float) -> float: assert type(a) == float and type(b) == float; return a*b
 
 ### Franks lösning: Subtraction
 
