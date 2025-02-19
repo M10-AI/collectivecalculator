@@ -6,10 +6,10 @@
 ### Johans lösning: Division
 
 
-### Leos lösning: Subtraction
+### Leos lösning: Multiplication
 def multiplication(a: float, b: float) -> float: assert type(a) == int and type(b) == int; return a*b
 
-### Franks lösning: Multiplication
+### Franks lösning: Subtraction
 
 
 ### Alejandro: Addition
