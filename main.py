@@ -10,3 +10,7 @@ st.title("Calculator")
 
 
 ### Franks lösning
+def subtract(a,b):
+    return a-b
+
+print(subtract(9,3))
