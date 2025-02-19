@@ -1,15 +1,15 @@
-import streamlit as st
+#import streamlit as st
 
 
-st.title("Calculator")
+#st.title("Calculator")
 
 ### Johans lösning: Division
 
 
-### Leos lösning: Subtraction
-def multiplication(a: float, b: float) -> float: return a*b
+### Leos lösning: Multiplication
+def multiplication(a: float, b: float) -> float: assert type(a) == float and type(b) == float; return a*b
 
-### Franks lösning: Multiplication
+### Franks lösning: Subtraction
 
 
 ### Alejandro: Addition
