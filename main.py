@@ -7,7 +7,7 @@ st.title("Calculator")
 
 
 ### Leos lösning: Subtraction
-
+def multiplication(a: float, b: float) -> float: return a*b
 
 ### Franks lösning: Multiplication
 
