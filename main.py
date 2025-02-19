@@ -15,5 +15,4 @@ def multiplication(a: float, b: float) -> float: return a*b
 ### Alejandro: Addition
 
 def addition(a,b):
-
     return a + b
